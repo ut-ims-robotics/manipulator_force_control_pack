@@ -10,3 +10,6 @@
 [submodule "netft_utils"]
 	path = netft_utils
 	url = https://github.com/UTNuclearRoboticsPublic/netft_utils.git
+[submodule "majorana"]
+	path = majorana
+	url = https://github.com/ut-ims-robotics/majorana
