@@ -34,12 +34,15 @@ In order for the software bundle to work, the prerequisites for the robot and it
 Yous should already have ROS installed and catkin workspace created. 
 
 First step is to recursively clone this repository into you workspace's src folder:
+
 1. `~/../my_workspace/src$ git clone https://github.com/ut-ims-robotics/manipulator_force_control_pack.git --recursive`
 
 Next, install all dependencies:
+
 2. `~/../my_workspace$ rosdep install --from-paths --ignore-src .`
 
-Compile
+Compile:
+
 3. `~/../my_workspace$ catkin_make`
 
 If no dependency installation errors or compiler errors occur at this point, we are ready to set up robot-specific package(s) and configurations.

@@ -13,3 +13,6 @@
 [submodule "majorana"]
 	path = majorana
 	url = https://github.com/ut-ims-robotics/majorana
+[submodule "manipulator_control_gui"]
+	path = manipulator_control_gui
+	url = https://github.com/ut-ims-robotics/manipulator_control_gui.git
