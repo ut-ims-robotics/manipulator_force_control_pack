@@ -7,9 +7,6 @@
 [submodule "jog_arm"]
 	path = jog_arm
 	url = https://github.com/ut-ims-robotics/jog_arm
-[submodule "majorana"]
-	path = majorana
-	url = https://github.com/ros-industrial-consortium/majorana.git
 [submodule "netft_utils"]
 	path = netft_utils
 	url = https://github.com/UTNuclearRoboticsPublic/netft_utils.git
