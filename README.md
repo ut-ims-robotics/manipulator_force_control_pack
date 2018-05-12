@@ -25,7 +25,7 @@ In order for the software bundle to work, the prerequisites for the robot and it
 * netft_utils - This is a dependency for contact_control package. It provides utils for FT data processing, such as filtering and assigning movements constraints.
 * keyboard_publisher - Provides functionality to easily publish geometry_msgs/Twist messages using keyboard. Very useful for testing jogging functionality and moving robot manually.
 * majorana - Includes set of generic force and impedance control messages and services. The package is an interface between contact_control and ROS ecosystem.
-
+* manipulator_control_gui - Graphical user interface, that includes elements for setting control laws on every direction with required parameters. 
 
 ## Set-up
 
